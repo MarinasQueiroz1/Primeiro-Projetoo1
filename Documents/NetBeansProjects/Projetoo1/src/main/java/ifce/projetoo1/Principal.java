@@ -19,7 +19,6 @@ public class Principal {
     public static void main(String[] args) {
         Esteira e1 = new Esteira();
         e1.ligar();
-        e1.desligar();
     }
     
 }
